@@ -198,6 +198,12 @@ List all external repositories, ROS 2 packages, simulator resources, research pa
 
 ## Authors
 
-- Team: `[Add team number]`
-- Members: `[Add team members]`
-- Course/assessment: `SLAM Wars — Benchmarking Autonomous Robot Mapping`
+- Team:
+- `Divya M`
+- `Keerthana R`
+- `Vedika Chand`
+- `Harshitha B L`
+- `HArshitha B S`
+- `Bhoomi jaiswal`
+- `Sanskriti Srivastava`
+

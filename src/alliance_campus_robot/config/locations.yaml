@@ -1,0 +1,123 @@
+locations:
+
+  administration_block:
+    display_name: "Administration Block"
+    x: -18.0
+    y: -15.0
+    aliases:
+      - "administration block"
+      - "administration"
+      - "admin block"
+      - "admin building"
+
+  student_activity_center:
+    display_name: "Student Activity Center"
+    x: 14.0
+    y: -15.0
+    aliases:
+      - "student activity center"
+      - "student activity"
+      - "activity center"
+      - "student center"
+
+  food_court:
+    display_name: "Food Court"
+    x: 30.0
+    y: -15.0
+    aliases:
+      - "food court"
+      - "food"
+      - "canteen"
+      - "cafeteria"
+
+  department_store:
+    display_name: "Department Store"
+    x: -36.0
+    y: -4.0
+    aliases:
+      - "department store"
+      - "store"
+      - "department shop"
+
+  central_library:
+    display_name: "Central Library"
+    x: -12.0
+    y: 4.5
+    aliases:
+      - "central library"
+      - "library"
+      - "the library"
+
+  learning_center:
+    display_name: "Learning Center"
+    x: 24.0
+    y: 4.5
+    aliases:
+      - "learning center"
+      - "learning centre"
+      - "study center"
+      - "study centre"
+
+  school_business:
+    display_name: "School of Business"
+    x: -28.0
+    y: 23.5
+    aliases:
+      - "school of business"
+      - "business school"
+      - "business department"
+
+  school_engineering:
+    display_name: "School of Engineering"
+    x: 24.0
+    y: 23.5
+    aliases:
+      - "school of engineering"
+      - "engineering school"
+      - "engineering department"
+
+  faculty_quarters:
+    display_name: "Faculty Quarters"
+    x: 0.0
+    y: 30.5
+    aliases:
+      - "faculty quarters"
+      - "faculty residence"
+      - "faculty housing"
+
+  parking_area:
+    display_name: "Parking Area"
+    x: -35.0
+    y: -24.5
+    aliases:
+      - "parking area"
+      - "parking"
+      - "car parking"
+
+  cricket_ground:
+    display_name: "Cricket Ground"
+    x: -28.0
+    y: 34.0
+    aliases:
+      - "cricket ground"
+      - "cricket field"
+      - "cricket"
+
+  sports_ground:
+    display_name: "Sports Ground"
+    x: 28.0
+    y: 34.0
+    aliases:
+      - "sports ground"
+      - "sports field"
+      - "sports"
+
+  main_gate:
+    display_name: "Main Gate"
+    x: 0.0
+    y: -35.0
+    aliases:
+      - "main gate"
+      - "gate"
+      - "entrance"
+      - "main entrance"
